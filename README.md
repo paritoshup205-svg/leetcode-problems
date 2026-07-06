@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/0007-reverse-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
