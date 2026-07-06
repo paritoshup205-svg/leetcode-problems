@@ -4,7 +4,7 @@ class Solution {
         int original = num;
         while(num!=0){
             int ld = num%10;
-            if(original%ld==0){
+            if(ld != 0 && original % ld == 0){
                 count++;
             }
             num/=10;
