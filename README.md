@@ -14,10 +14,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/0001-two-sum) |
 | [1390-four-divisors](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/paritoshup205-svg/leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
